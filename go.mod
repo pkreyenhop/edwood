@@ -1,4 +1,4 @@
-module github.com/rjkroege/edwood
+module github.com/pkreyenhop/edwood
 
 go 1.11
 
